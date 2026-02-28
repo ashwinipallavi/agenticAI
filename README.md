@@ -46,13 +46,13 @@ This application simplifies complex government documents and converts them into 
 ---
 ## 🎯 Scheme Recommendation Output
 ### 🏠 Home Screen
-![Home Screen](assets/s1.jpeg)
+![Home Screen](C:\Users\User\Downloads\s1.jpeg)
 
 ### 📂 Upload Section
-![Upload Section](assets/s2.jpeg)
+![Upload Section](C:\Users\User\Downloads\s2.jpeg)
 
 ### 🎯 Output Screen
-![Output Screen](assets/output.png)
+![Output Screen](C:\Users\User\OneDrive\画像\Screenshots\Screenshot 2026-02-28 211803.png)
 
 
 ## 📦 Installation
