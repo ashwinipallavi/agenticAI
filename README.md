@@ -44,6 +44,16 @@ This application simplifies complex government documents and converts them into 
 8. LLM generates structured scheme recommendation.
 
 ---
+## 🎯 Scheme Recommendation Output
+### 🏠 Home Screen
+![Home Screen](assets/s1.jpeg)
+
+### 📂 Upload Section
+![Upload Section](assets/s2.jpeg)
+
+### 🎯 Output Screen
+![Output Screen](assets/output.png)
+
 
 ## 📦 Installation
 
@@ -51,3 +61,10 @@ This application simplifies complex government documents and converts them into 
 
 ```bash
 pip install streamlit chromadb ollama pypdf pdf2image pytesseract
+2️⃣ Install Dependencies
+pip install -r requirements.txt
+3️⃣ Run Ollama Models
+ollama pull nomic-embed-text
+ollama pull phi3:mini
+4️⃣ Run the App
+streamlit run filename
