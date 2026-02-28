@@ -46,13 +46,16 @@ This application simplifies complex government documents and converts them into 
 ---
 ## 🎯 Scheme Recommendation Output
 ### 🏠 Home Screen
-![Home Screen](C:\Users\User\Downloads\s1.jpeg)
+
+![s1](https://github.com/user-attachments/assets/0e97d2c0-2863-4df4-bd2c-c33137811d07)
 
 ### 📂 Upload Section
-![Upload Section](C:\Users\User\Downloads\s2.jpeg)
+![s2](https://github.com/user-attachments/assets/d51933b0-ef26-41ed-a847-00da970f8226)
+
 
 ### 🎯 Output Screen
-![Output Screen](C:\Users\User\OneDrive\画像\Screenshots\Screenshot 2026-02-28 211803.png)
+
+<img width="1357" height="859" alt="Screenshot 2026-02-28 211803" src="https://github.com/user-attachments/assets/3a91c8ea-41ee-485b-b4b1-e203cee04727" />
 
 
 ## 📦 Installation
